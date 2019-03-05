@@ -488,7 +488,7 @@
   </url>
   <url>
     <loc>http://bologna3.it/contatti.html</loc>
-    <lastmod>2018-12-10</lastmod>
+    <lastmod>2019-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -558,6 +558,12 @@
       <image:loc>http://bologna3.it/images/tela%20blu-crop-u16427_2x.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://bologna3.it/images/logo%20agesci25x28.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bologna3.it/images/logo%20agesci25x28_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://bologna3.it/images/tela%20blu-crop-u17337.jpg</image:loc>
     </image:image>
     <image:image>
@@ -592,6 +598,12 @@
     </image:image>
     <image:image>
       <image:loc>http://bologna3.it/images/tela%20blu-crop-u17777_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bologna3.it/images/logo%20agesci25x29.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bologna3.it/images/logo%20agesci25x29_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bologna3.it/images/tela%20blu-crop-u17632.jpg</image:loc>
