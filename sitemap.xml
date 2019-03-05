@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://bologna3.it/index.html</loc>
-    <lastmod>2018-12-10</lastmod>
+    <lastmod>2019-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -280,6 +280,18 @@
     </image:image>
     <image:image>
       <image:loc>http://bologna3.it/images/testa%20tintin234x176_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bologna3.it/images/bo1185x130.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bologna3.it/images/bo1185x130_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bologna3.it/images/testa%20tintin184x138.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bologna3.it/images/testa%20tintin184x138_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
