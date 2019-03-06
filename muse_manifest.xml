@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bologna3.it" resolutions="1x,2x" timestamp="1551826818567">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bologna3.it" resolutions="1x,2x" timestamp="1551878910652">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-mastro.css" crc="3992647028" ref="ospitalità:iscrizione:index:contatti:risorse-utili"/>
-    <file name="nomq_preview_master_a-mastro.css" crc="4021763324" ref="ospitalità:iscrizione:index:contatti:risorse-utili"/>
+    <file name="master_a-mastro.css" crc="4026380873" ref="ospitalità:iscrizione:index:contatti:risorse-utili"/>
+    <file name="nomq_preview_master_a-mastro.css" crc="391857530" ref="ospitalità:iscrizione:index:contatti:risorse-utili"/>
     <file name="ospitalit_.css" crc="303081992" ref="ospitalità"/>
     <file name="nomq_ospitalit_.css" crc="3959914803" ref="ospitalità"/>
     <file name="iscrizione.css" crc="3778764597" ref="iscrizione"/>
     <file name="nomq_iscrizione.css" crc="279255626" ref="iscrizione"/>
-    <file name="index.css" crc="267477153" ref="index"/>
+    <file name="index.css" crc="3817183244" ref="index"/>
     <file name="nomq_index.css" crc="3946436805" ref="index"/>
     <file name="contatti.css" crc="4088553105" ref="contatti"/>
     <file name="nomq_contatti.css" crc="453930168" ref="contatti"/>
@@ -42,33 +42,33 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u16983_2x.jpg" crc="4071540208" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u16985.jpg" crc="339656520" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u16985_2x.jpg" crc="4071540208" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u41516.jpg" crc="339656520" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -135,33 +135,33 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u16919_2x.jpg" crc="4071540208" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u16921.jpg" crc="339656520" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u16921_2x.jpg" crc="4071540208" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="u223-4.png" crc="428901088" ref="index:risorse-utili:iscrizione:ospitalità:contatti"/>
     <file name="u223-4_2x.png" crc="363606035" ref="index:risorse-utili:iscrizione:ospitalità:contatti"/>
@@ -169,17 +169,17 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="logo agesci_2x.png" crc="4182302589" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="u30394-4-a.png" crc="52861770" ref="index"/>
     <file name="u30394-4-a_2x.png" crc="4122726690" ref="index"/>
@@ -227,97 +227,97 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u16344_2x.jpg" crc="3966468968" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u16361.jpg" crc="98389217" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u16361_2x.jpg" crc="3966468968" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u16406.jpg" crc="98389217" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u16406_2x.jpg" crc="3966468968" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u16423.jpg" crc="98389217" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u16423_2x.jpg" crc="3966468968" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u16425.jpg" crc="98389217" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u16425_2x.jpg" crc="3966468968" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u16427.jpg" crc="98389217" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u16427_2x.jpg" crc="3966468968" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="u9996-4.png" crc="342735786" ref="index:risorse-utili:iscrizione:ospitalità:contatti"/>
     <file name="u9996-4_2x.png" crc="129325520" ref="index:risorse-utili:iscrizione:ospitalità:contatti"/>
@@ -480,86 +480,86 @@
     <file name="tela blu-crop-u17337.jpg" crc="356643584" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u17337_2x.jpg" crc="43662086" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u17341.jpg" crc="356643584" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u17341_2x.jpg" crc="43662086" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u17775.jpg" crc="356643584" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u17775_2x.jpg" crc="43662086" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u17339.jpg" crc="356643584" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u17339_2x.jpg" crc="43662086" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u17343.jpg" crc="356643584" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u17343_2x.jpg" crc="43662086" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u17777.jpg" crc="356643584" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u17777_2x.jpg" crc="43662086" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="logo agesci25x29.png" crc="4061650026" seo="true" ref="index:contatti">
       <caption webpage="index" alt=""/>
@@ -641,10 +641,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u17632_2x.jpg" crc="306073706" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
@@ -654,10 +654,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u17694.jpg" crc="297407410" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
@@ -667,10 +667,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u17694_2x.jpg" crc="306073706" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
@@ -680,10 +680,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u17743.jpg" crc="297407410" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
@@ -693,10 +693,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u17743_2x.jpg" crc="306073706" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
@@ -706,10 +706,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u17711.jpg" crc="297407410" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
@@ -719,10 +719,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u17711_2x.jpg" crc="306073706" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
@@ -732,10 +732,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u17713.jpg" crc="297407410" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
@@ -745,10 +745,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u17713_2x.jpg" crc="306073706" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
@@ -758,10 +758,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u17745.jpg" crc="297407410" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
@@ -771,10 +771,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="tela blu-crop-u17745_2x.jpg" crc="306073706" seo="true" ref="index:risorse-utili:iscrizione:ospitalità:contatti">
       <caption webpage="index" alt=""/>
@@ -784,10 +784,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="ospitalità" alt=""/>
       <caption webpage="ospitalità" alt=""/>
+      <caption webpage="risorse-utili" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="contatti" alt=""/>
       <caption webpage="iscrizione" alt=""/>
-      <caption webpage="risorse-utili" alt=""/>
     </file>
     <file name="u30394-4-a5.png" crc="426626195" ref="index"/>
     <file name="u30394-4-a_2x5.png" crc="246274818" ref="index"/>
@@ -1518,7 +1518,7 @@
     <file name="coca-u48948-fr5.png" crc="16356825" ref="index"/>
     <file name="coca-u48948-fr_2x5.png" crc="410397997" ref="index"/>
   </folder>
-  <file name="index.html" crc="521593658" seo="true" mt="1551824048209" redirect="true"/>
+  <file name="index.html" crc="3873875359" seo="true" mt="1551878848454" redirect="true"/>
   <file name="risorse-utili.html" crc="4157576062" seo="true" mt="1544438477275" redirect="true"/>
   <file name="iscrizione.html" crc="3831368501" seo="true" mt="1544438251516" redirect="true"/>
   <file name="ospitalità.html" crc="96437400" seo="true" mt="1544437701150" redirect="true"/>
